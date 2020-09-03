@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "422433227559",
+    "firebase_url": "https://dumachatfirebase.firebaseio.com",
+    "project_id": "dumachatfirebase",
+    "storage_bucket": "dumachatfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422433227559:android:5a95cb6fafd996f73c9f02",
+        "android_client_info": {
+          "package_name": "com.hungnd.dumachatfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422433227559-20mdhho1qvc1aa61q2odmcav98v4j6li.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hungnd.dumachatfirebase",
+            "certificate_hash": "c21a222e33d6960bc13e048ef6d06945552c7e80"
+          }
+        },
+        {
+          "client_id": "422433227559-1f8mlvf3pbtd8876n4jufip0ab1f6t5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbVs7c1XYMKfAUy6RfGqM4thmEJ03SvzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422433227559-1f8mlvf3pbtd8876n4jufip0ab1f6t5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
